@@ -1,0 +1,7 @@
+# Word-Sperr-/Temporärdateien
+~$*
+*.tmp
+
+# Betriebssystem
+Thumbs.db
+Desktop.ini
