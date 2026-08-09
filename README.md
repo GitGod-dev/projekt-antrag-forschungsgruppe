@@ -4,7 +4,8 @@ Projektidee: **Kovalenz als experimenteller Deskriptor memristiven Schaltens** i
 
 ## Übersicht & Prüfung
 
-- [Materialsysteme im Vergleich](Materialsysteme_Vergleich.md) – Entscheidungsgrundlage, Stärken/Schwächen der fünf Systeme
+- [Materialsysteme im Vergleich](Materialsysteme_Vergleich.md) – Entscheidungsgrundlage entlang der Deskriptorkette (Achsen 1a/1b/2)
+- [Materialscreening 2026-08-09](Materialscreening_2026-08-09.md) – Familien-Screening nach weiteren Systemen, die die drei Beleg-Kriterien erfüllen (Volltreffer: YBCO, SrCoOx, Gd:CeO2)
 - [Literaturprüfung 2026-08-09](Literaturpruefung_2026-08-09.md) – Referenz-Verifikation (101 Referenzen), Korrekturtabelle, erneute Literatursuche je System
 - [Mailentwurf an Dittmann/Müller](Mailentwurf_Projektidee_Dittmann-Mueller.md)
 - [CV Max Buczek](CV_Max_Buczek.md)
