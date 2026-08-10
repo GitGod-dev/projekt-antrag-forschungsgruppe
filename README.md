@@ -4,7 +4,7 @@ Projektidee: **Kovalenz als experimenteller Deskriptor memristiven Schaltens** i
 
 ## Übersicht & Prüfung
 
-- [Materialsysteme im Vergleich](Materialsysteme_Vergleich.md) – Entscheidungsgrundlage entlang der Deskriptorkette (Achsen 1a/1b/2)
+- [Materialsysteme im Vergleich](Materialsysteme_Vergleich.md) – Entscheidungsgrundlage entlang der Deskriptorkette (Achsen 1a/1b/2) sowie die Gradient-Wafer-Plattform „one wafer, one map" (Stand 10.08.2026)
 - [Materialscreening 2026-08-09](Materialscreening_2026-08-09.md) – Familien-Screening nach weiteren Systemen, die die drei Beleg-Kriterien erfüllen (Volltreffer: YBCO, SrCoOx, Gd:CeO2)
 - [Cluster-Modell-Re-Screening 2026-08-09](ClusterModell_ReScreening_2026-08-09.md) – CI-Parameterbasis (Δ, U, Transferintegrale) je System nach der Grundlagenliteratur der 80er/90er (LSCO stark · LSFO/YBCO teilweise-stark · GDC teilweise · STF/PCMO Lücke)
 - [Literaturprüfung 2026-08-09](Literaturpruefung_2026-08-09.md) – Referenz-Verifikation (101 Referenzen), Korrekturtabelle, erneute Literatursuche je System
@@ -27,5 +27,7 @@ Projektidee: **Kovalenz als experimenteller Deskriptor memristiven Schaltens** i
 *Portfolio-Reduktion 09.08.2026: Die früheren Ordner Material_4 (La<sub>1-x</sub>Sr<sub>x</sub>MnO<sub>3-δ</sub>, LSMO) und Material_5 (La<sub>2</sub>NiO<sub>4+δ</sub>, LNO) wurden entfernt, da für beide kein resistiver Schaltnachweis an einer Edelmetall-Grenzfläche existiert (Begründung: [Materialsysteme-Vergleich](Materialsysteme_Vergleich.md), Abschnitt „Ausgeschiedene Systeme"). In den EN-/ERC-Programmen ersetzt PCMO die bisherige LSMO-Referenzserie.*
 
 *Portfolio-Erweiterung 09.08.2026: Die Ordner 6–8 wurden nach dem [Familien-Screening](Materialscreening_2026-08-09.md) ergänzt — alle drei Systeme erfüllen die drei Beleg-Kriterien (LSCO über den SrCoO<sub>x</sub>-Anker). Die Nummern 4–5 bleiben zur Nachvollziehbarkeit unbesetzt.*
+
+*Methodik-Erweiterung 10.08.2026: Alle 36 Antragsdokumente enthalten jetzt die Gradient-Wafer-Plattform – ein Wafer mit kontinuierlichem lateralen Stöchiometriegradienten (Continuous-Compositional-Spread-PLD), ortsaufgelöste weiche XAS als Kovalenz-Karte, automatisiertes Prober-Mapping als Schalt-Karte und eine defektchemische Gas-Titration auf demselben Wafer, die EV experimentell ko-lokalisiert zum Deskriptor bestimmt (Achse 1b). Begründung, Präzedenzfälle, Auflösungsabschätzung und Risiken: [Materialsysteme im Vergleich](Materialsysteme_Vergleich.md), Abschnitt „Gradient-Wafer-Plattform".*
 
 *Hinweis: Die `.md`-Fassungen werden aus den `.docx`-Originalen generiert (pandoc, GitHub-Flavored Markdown). Bei Änderungen an den `.docx` müssen die `.md`-Fassungen neu erzeugt werden.*
