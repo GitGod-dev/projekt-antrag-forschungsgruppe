@@ -25,7 +25,7 @@ LSCO satisfies all three evidence criteria of my descriptor programme. (i) Coval
 
 Known design constraints are addressed openly: LSCO metallises percolatively around x ≈ 0.18, Co spin-state degrees of freedom add a second electronic variable, and the Sr-rich end approaches brownmillerite vacancy ordering \[14, 20\]. The series therefore concentrates on x = 0–0.5 with dense sampling around the insulator–metal boundary and treats the topotactic end member as a charted mechanism boundary – the same honest framing that the ferrite series uses. My central hypothesis: the usable switching window of noble-contacted LSCO devices scales with the XAS-measured covalency and is maximal at intermediate x (“Goldilocks zone”).
 
-Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[26\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[27–30\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[31\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone.
+Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[26\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[27–30\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[31\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone. System-specific parameter status (re-screening, 09.08.2026): the cluster-model basis of this series is the strongest of the portfolio – two independent CI analyses cover the full composition range (\[9\] and \[32\]), with the end members anchored by dedicated cluster analyses (LaCoO3 \[33\]; intermediate-spin Co4+ with dominant d6L character in SrCoO3 \[34\]); Δ/U are fitted at the end members, a per-composition Δ(x) remains to be established.
 
 2 Why the Chueh group at Stanford is the ideal place
 
@@ -123,6 +123,12 @@ The project is the deliberate building block between my doctorate (memristive de
 \[30\] S. Nimkar, D. D. Sarma, H. R. Krishnamurthy, S. Ramasesha, Mean-field results of the multiple-band extended Hubbard model for the square-planar CuO2 lattice. Physical Review B 48, 7355–7363 (1993).
 
 \[31\] F. M. F. de Groot, X-ray absorption and dichroism of transition metals and their compounds. Journal of Electron Spectroscopy and Related Phenomena 67, 529–622 (1994).
+
+\[32\] A. Chainani, M. Mathew, D. D. Sarma, Electron-spectroscopy study of the semiconductor-metal transition in La1-xSrxCoO3. Physical Review B 46, 9976–9983 (1992).
+
+\[33\] T. Saitoh, T. Mizokawa, A. Fujimori, M. Abbate, Y. Takeda, M. Takano, Electronic structure and temperature-induced paramagnetism in LaCoO3. Physical Review B 55, 4257–4266 (1997).
+
+\[34\] R. H. Potze, G. A. Sawatzky, M. Abbate, Possibility for an intermediate-spin ground state in the charge-transfer material SrCoO3. Physical Review B 51, 11501–11506 (1995).
 
 \[E1\] M. Buczek et al., Amorphous, Highly Conductive Pr0.7Ca0.3MnO3 for Area-Dependent Resistive Switching Devices. Advanced Electronic Materials (2026, accepted).
 
