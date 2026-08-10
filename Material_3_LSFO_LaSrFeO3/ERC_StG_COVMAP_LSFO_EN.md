@@ -57,6 +57,8 @@ The conceptual risk is real and honest: the descriptor may not survive the trans
 
 The methodology rests on three pillars. **(i) Synthesis with stoichiometric authority:** RHEED-controlled PLD \[29\] of full composition series with cation stoichiometry controlled via fluence/pressure windows and oxygen stoichiometry via p(O<sub>2</sub>) protocols – the growth physics I applied at wafer scale during my PhD. **(ii) Statistically robust device metrology:** a constant platform (Nb:SrTiO<sub>3</sub> or SrRuO<sub>3</sub> bottom electrodes, lithographically defined cells, graphene top electrodes for operando access \[6\]), with the variability-aware measurement methodology (device-to-device and cycle-to-cycle statistics, kinetics, retention Arrhenius analysis) that I developed for area-dependent PCMO devices. **(iii) Spectroscopic descriptor quantification:** soft-X-ray absorption at European synchrotrons (BESSY II, PETRA III, ESRF), transferring the established O-K pre-edge hybridisation analysis \[14–16\] to full memristive material series for the first time, and in the second phase operando spectromicroscopy of switched cells \[5, 6\].
 
+\(iv\) Throughput by design - one wafer, one map: the composition series are additionally realised as single wafers carrying a continuous lateral cation gradient, grown in continuous-compositional-spread mode \[44\] on combinatorial large-area hardware of the class that reaches four-inch substrates \[45\], an approach established for epitaxial perovskites \[46\]. Spatially resolved soft XAS converts such a wafer into a continuous covalency map - on-the-fly L-edge mapping across a combinatorial spread has been demonstrated \[47\] and beamlines built for automated high-throughput NEXAFS are available \[48\] - while automated prober mapping of device arrays along the same gradient track yields the corresponding switching map \[49\]; 0.2-0.5 mm spots on a 50 mm gradient give 100-250 independent compositions per wafer. Decisively, the same wafer also carries the defect-chemical gas titration: equilibration at defined oxygen partial pressure and temperature, spatially resolved read-out of the resulting non-stoichiometry and van 't Hoff analysis across oxidising and reducing conditions yield the reduction enthalpy as a function of composition - an experimental vacancy-formation energy co-located with the descriptor. Since XAS gives valence rather than absolute oxygen content, the map is calibrated against chemical-capacitance or chemical-expansion anchors \[51, 52\], with optical absorption as a second, fully imageable read-out \[53\]; thin-film defect chemistry of this type is established for ceria \[51\] and ferrite films \[52\]. This is what turns the covalency-EV link from a computed premise into a measured correlation, and it is what makes a map across many systems - rather than a study of one - realistic. The risks are explicit: composition, thickness and strain gradients must be deconvolved by per-position metrology because cation transfer in PLD is fluence- and pressure-sensitive \[50\]; electron-yield detection is pressure-limited and surface-sensitive, so bulk-sensitive fluorescence yield runs alongside; and soft-X-ray photoreduction drives valence in the same direction as the gas-induced reduction under study, so dose series precede every descriptor claim.
+
 I am, arguably uniquely, positioned for exactly this programme: my doctoral work in the Dittmann group (FZ Jülich) covered the complete chain from large-area PLD process development through cleanroom device integration to switching statistics on a mixed-valent, A-site-substituted manganite (Pr<sub>0.7</sub>Ca<sub>0.3</sub>MnO<sub>3</sub>) – the very material class and doping principle COVMAP generalises. My first-author review on PCMO-based memristive heterostructures (Chemical Reviews 2025) maps the mechanistic state of the art; my device papers (Advanced Electronic Materials 2026; Thin Solid Films 2024) demonstrate the fabrication and metrology base. The synchrotron dimension I have since added during my current Feodor Lynen fellowship in the Chueh group at Stanford: within the fellowship project I have grown the first La<sub>1-x</sub>Sr<sub>x</sub>FeO<sub>3-δ</sub> pilot series and established the O-K pre-edge covalency scale across it at SSRL \[preliminary data; manuscript in preparation, P1\]. COVMAP scales this proven approach – developed independently of my PhD environment and now backed by an established transatlantic collaboration with the Chueh group and by European beamline and DFT partners \[letters to be attached\] – from one pilot series to the full three-family map.
 
 **Gain if successful:** a published, open, blind-validated design map plus the underlying FAIR database – the “periodic table” moment for redox-based memory materials, with direct impact on neuromorphic hardware, and conceptual feedback to catalysis and solid-state ionics (does the equilibrium descriptor survive extreme non-equilibrium?). **Risk management in brief:** the programme is modular – each series and each descriptor axis has stand-alone publication value; if H1 fails in one family, the cross-family comparison (Fe vs. Mn vs. Co) localises why, which is itself a discovery about the limits of descriptor physics (full risk table in B2).
@@ -148,6 +150,26 @@ I am, arguably uniquely, positioned for exactly this programme: my doctoral work
 \[42\] T. Saitoh, A. E. Bocquet, T. Mizokawa, A. Fujimori, Physical Review B 52, 7934–7938 (1995).
 
 \[43\] S. Nimkar, D. D. Sarma, H. R. Krishnamurthy, S. Ramasesha, Physical Review B 48, 7355–7363 (1993).
+
+\[44\] H. M. Christen, C. M. Rouleau, I. Ohkubo, H. Y. Zhai, H. N. Lee, S. Sathyamurthy, D. H. Lowndes, Review of Scientific Instruments 74, 4058-4062 (2003).
+
+\[45\] M. Lorenz, H. Hochmuth, H. von Wenckstern, M. Grundmann, Review of Scientific Instruments 94, 083905 (2023).
+
+\[46\] A. Venimadhav, K. A. Yates, M. G. Blamire, Journal of Combinatorial Chemistry 7, 85-89 (2005).
+
+\[47\] Y. Yamasaki, N. Sasabe, Y. Ishii et al., Science and Technology of Advanced Materials: Methods 5, 2544528 (2025). \[volume/article number from a single source - verify\]
+
+\[48\] D. C. Grinter, P. Ferrer, F. Venturini et al., Journal of Synchrotron Radiation 31, 578-589 (2024).
+
+\[49\] M. Tang, L. Dai, M. Cheng et al., Advanced Functional Materials 33, 2213874 (2023).
+
+\[50\] S. Wicklein, A. Sambri, S. Amoruso, X. Wang, R. Bruzzese, A. Koehl, R. Dittmann, Applied Physics Letters 101, 131601 (2012).
+
+\[51\] W. C. Chueh, S. M. Haile, Physical Chemistry Chemical Physics 11, 8144-8148 (2009).
+
+\[52\] A. Schmid, G. M. Rupp, J. Fleig, Physical Chemistry Chemical Physics 20, 12016-12026 (2018).
+
+\[53\] J. J. Kim, S. R. Bishop, N. J. Thompson, H. L. Tuller, Chemistry of Materials 26, 1374-1379 (2014).
 
 # Part B1 – Curriculum Vitae and Track Record (max. 4 pages)
 
