@@ -47,7 +47,7 @@ The conceptual risk is real and honest: the descriptor may not survive the trans
 
 **O1 – Isolate covalency as the control variable.** Grow three epitaxial perovskite series by pulsed laser deposition – La<sub>1-x</sub>Sr<sub>x</sub>FeO<sub>3-δ</sub> (primary, largest documented E<sub>V</sub> span: ≈4 eV → \<1 eV across x = 0–0.5 \[13, 34\]), Pr<sub>1-x</sub>Ca<sub>x</sub>MnO<sub>3</sub> (reference; noble-contact switching demonstrated \[36\]), La<sub>1-x</sub>Sr<sub>x</sub>CoO<sub>3-δ</sub> (map densification; Au-active switching proven at its SrCoO2.5 end member \[37\]) – building on the noble-electrode descriptor methodology (inert-contact devices + XAS covalency scale) that I de-risked on YBa<sub>2</sub>Cu<sub>3</sub>O<sub>7-δ</sub> during my Feodor Lynen fellowship – and integrate them into one frozen device platform, so that A-site stoichiometry tunes covalency continuously while structure, electrodes and geometry stay constant. Epitaxial strain (substrate choice) provides a second, chemistry-free handle on E<sub>V</sub> \[27, 28\] as an internal consistency test.
 
-**O2 – Measure the descriptors, not just compute them.** Establish an experimental covalency scale from the O-K pre-edge intensity and transition-metal L-edge X-ray absorption spectroscopy \[14–16\] for every composition, calibrated against literature DFT \[11–13\] and charge-transfer analysis – making the map independent of material-specific theory.
+**O2 – Measure the descriptors, not just compute them.** Establish an experimental covalency scale from the O-K pre-edge intensity and transition-metal L-edge X-ray absorption spectroscopy \[14–16\] for every composition, calibrated against literature DFT \[11–13\] and anchored in cluster-model/configuration-interaction charge-transfer analysis in the Zaanen–Sawatzky–Allen framework and the tradition of Fujimori, Bocquet, Saitoh and Sarma \[39–43\] – hybridisation and covalency are kept strictly distinct, and pre-edge intensities are used as a relative, series-internal measure only – making the map independent of material-specific theory.
 
 **O3 – Chart the switching landscape.** Measure ON/OFF ratio, forming/switching voltages, kinetics (10 ns–1 s), retention and endurance under one protocol with ≥30 devices per composition, and test the two central hypotheses: (H1) switching metrics scale with the covalency descriptor; (H2) a “Goldilocks” optimum exists where the usable window is maximal between the hard-to-form and the unstable-state regimes.
 
@@ -138,6 +138,16 @@ I am, arguably uniquely, positioned for exactly this programme: my doctoral work
 \[37\] S. K. Acharya et al., ACS Applied Materials & Interfaces 8, 7902–7911 (2016).
 
 \[38\] C. Acha, M. J. Rozenberg, Journal of Physics: Condensed Matter 21, 045702 (2009).
+
+\[39\] J. Zaanen, G. A. Sawatzky, J. W. Allen, Physical Review Letters 55, 418–421 (1985).
+
+\[40\] A. Fujimori, F. Minami, Physical Review B 30, 957–971 (1984).
+
+\[41\] A. E. Bocquet, T. Mizokawa, T. Saitoh, H. Namatame, A. Fujimori, Physical Review B 46, 3771–3784 (1992).
+
+\[42\] T. Saitoh, A. E. Bocquet, T. Mizokawa, A. Fujimori, Physical Review B 52, 7934–7938 (1995).
+
+\[43\] S. Nimkar, D. D. Sarma, H. R. Krishnamurthy, S. Ramasesha, Physical Review B 48, 7355–7363 (1993).
 
 # Part B1 – Curriculum Vitae and Track Record (max. 4 pages)
 

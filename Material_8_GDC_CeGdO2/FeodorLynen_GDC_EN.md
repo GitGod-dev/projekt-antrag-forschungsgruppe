@@ -25,9 +25,13 @@ GDC is unique in that criterion 2 – switching at a noble interface – is fulf
 
 Design constraints are addressed openly: the “covalency” axis of a fluorite is of a different nature than the O-2p ligand-hole axis of the perovskites (4f localisation, polaronic transport \[11\]), grain boundaries can dominate transport in thin films, and Gd tunes primarily the vacancy concentration and association rather than the bond covalency itself \[10\]. These differences are not a weakness but the point: they make GDC the sharpest available test of which descriptor formulation – O-2p band centre, reducibility, vacancy formation enthalpy – carries across oxide classes.
 
+Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[21\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[22–25\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[26\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone.
+
 2 Why the Chueh group at Stanford is the ideal place
 
 The group of Prof. William Chueh is a world leader in exactly the combination this project requires: defect chemistry and non-stoichiometry of redox-active oxides, quantitative operando X-ray absorption spectroscopy at the in-house Stanford Synchrotron Radiation Lightsource (SSRL), and redox chemistry of epitaxial oxide thin films \[17–19\]. The group’s seminal work on the redox activity of oxygen anions in oxygen-deficient perovskites \[18\] is a direct methodological blueprint for my project; the Nature Materials study on atomically defined LaNiO3 surfaces \[19\] – with Christoph Baeumer from the Jülich school as first author – furthermore demonstrates that the group routinely masters epitaxial oxide model systems of the type proposed here and successfully integrates German postdocs. Direct SSRL access makes XAS campaigns plannable that in Europe cost months of lead time through competitive single proposals. Complementarily, I contribute the device side, from which the Stanford environment profits in turn: PLD process development, memristive device processing and statistically robust switching characterisation from five years at the Peter Grünberg Institute (PGI-7, group of Prof. Dittmann) \[E1–E3\]. The constellation is thus a genuine two-way transfer of knowledge. For complementary epitaxial growth questions, the environment of the Stanford Institute for Materials and Energy Sciences (SIMES) at SLAC is available. As a Bessel Research Award winner (2021), Prof. Chueh is a member of the Humboldt Network and has repeatedly hosted German postdocs – the host eligibility required by the programme is given.
+
+\[Host choice under review after first-hand feedback (08/2026): the Chueh group’s own perovskite/oxide-redox activities have largely moved on; the relevant lines are continued in alumni groups – C. Baeumer (University of Twente), Q. Lu (Westlake University), J. T. Mefford, D. Chen. If XAS quantification is the methodological core, a host with direct synchrotron access (e.g. PSI/SLS, MAX IV, Diamond, or a beamline-affiliated group) is a serious alternative. Re-validate and, if necessary, rewrite this section before submission.\]
 
 3 Work programme (24 months)
 
@@ -97,6 +101,18 @@ The project is the deliberate building block between my doctorate (memristive de
 \[19\] C. Baeumer, J. Li, Q. Lu et al. (with W. C. Chueh), Tuning electrochemically driven surface transformation in atomically flat LaNiO3 thin films for enhanced water electrolysis. Nature Materials 20, 674–682 (2021).
 
 \[20\] M. Wuttig et al., Revisiting the Nature of Chemical Bonding in Chalcogenides to Explain and Design their Properties. Advanced Materials 35, 2208485 (2023).
+
+\[21\] J. Zaanen, G. A. Sawatzky, J. W. Allen, Band gaps and electronic structure of transition-metal compounds. Physical Review Letters 55, 418–421 (1985).
+
+\[22\] A. Fujimori, F. Minami, Valence-band photoemission and optical absorption in nickel compounds. Physical Review B 30, 957–971 (1984).
+
+\[23\] A. E. Bocquet, T. Mizokawa, T. Saitoh, H. Namatame, A. Fujimori, Electronic structure of 3d-transition-metal compounds by analysis of the 2p core-level photoemission spectra. Physical Review B 46, 3771–3784 (1992).
+
+\[24\] T. Saitoh, A. E. Bocquet, T. Mizokawa, A. Fujimori, Systematic variation of the electronic structure of 3d transition-metal compounds. Physical Review B 52, 7934–7938 (1995).
+
+\[25\] S. Nimkar, D. D. Sarma, H. R. Krishnamurthy, S. Ramasesha, Mean-field results of the multiple-band extended Hubbard model for the square-planar CuO2 lattice. Physical Review B 48, 7355–7363 (1993).
+
+\[26\] F. M. F. de Groot, X-ray absorption and dichroism of transition metals and their compounds. Journal of Electron Spectroscopy and Related Phenomena 67, 529–622 (1994).
 
 \[E1\] M. Buczek et al., Amorphous, Highly Conductive Pr0.7Ca0.3MnO3 for Area-Dependent Resistive Switching Devices. Advanced Electronic Materials (2026, accepted).
 
