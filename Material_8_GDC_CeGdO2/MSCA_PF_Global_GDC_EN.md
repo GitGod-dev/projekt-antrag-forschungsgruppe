@@ -24,7 +24,7 @@ GDC is unique in that criterion 2 – switching at a noble interface – is fulf
 
 Design constraints are addressed openly: the “covalency” axis of a fluorite is of a different nature than the O-2p ligand-hole axis of the perovskites (4f localisation, polaronic transport \[11\]), grain boundaries can dominate transport in thin films, and Gd tunes primarily the vacancy concentration and association rather than the bond covalency itself \[10\]. These differences are not a weakness but the point: they make GDC the sharpest available test of which descriptor formulation – O-2p band centre, reducibility, vacancy formation enthalpy – carries across oxide classes.
 
-Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[21\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[22–25\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[26\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone.
+Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[21\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[22–25\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[26\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone. System-specific parameter status (re-screening, 09.08.2026): the Anderson-impurity parameter basis of stoichiometric CeO2 is canonical \[27–29\], but no parameter set exists as a function of Gd content or δ – establishing the first AIM parametrisation of the GDC series is an explicit deliverable; note that ceria requires the 4f impurity framework rather than the d-electron cluster model of the perovskites, so the proposal carries two parallel parameter frameworks.
 
 2 Programme fit and strategy
 
@@ -119,6 +119,12 @@ The project is the building block between the applicant’s doctorate (memristiv
 \[25\] S. Nimkar, D. D. Sarma, H. R. Krishnamurthy, S. Ramasesha, Mean-field results of the multiple-band extended Hubbard model for the square-planar CuO2 lattice. Physical Review B 48, 7355–7363 (1993).
 
 \[26\] F. M. F. de Groot, X-ray absorption and dichroism of transition metals and their compounds. Journal of Electron Spectroscopy and Related Phenomena 67, 529–622 (1994).
+
+\[27\] A. Fujimori, Mixed-valent ground state of CeO2. Physical Review B 28, 2281–2283 (1983).
+
+\[28\] E. Wuilloud, B. Delley, W.-D. Schneider, Y. Baer, Spectroscopic evidence for localized and extended f-symmetry states in CeO2. Physical Review Letters 53, 202–205 (1984).
+
+\[29\] A. Kotani, T. Jo, J. C. Parlebas, Many-body effects in core-level spectroscopy of rare-earth compounds. Advances in Physics 37, 37–85 (1988).
 
 \[E1\] M. Buczek et al., Amorphous, Highly Conductive Pr0.7Ca0.3MnO3 for Area-Dependent Resistive Switching Devices. Advanced Electronic Materials (2026, accepted).
 

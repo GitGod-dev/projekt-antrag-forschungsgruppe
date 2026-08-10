@@ -24,7 +24,7 @@ Memristive devices based on the valence change mechanism switch their resistance
 
 Design constraints are addressed openly: below Tc ≈ 93 K superconductivity takes over (all device metrology therefore runs at ≥ 100 K and room temperature), and the ortho-ordering kinetics of the chain oxygen add a slow structural relaxation that is monitored by XRD. Both are charted boundaries, not confounders of the room-temperature descriptor study.
 
-Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[22\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[23–26\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[27\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone.
+Conceptual footing (sharpened after expert feedback, 08/2026): throughout this project, “covalency” is used in the quantitative sense of the charge-transfer/cluster-model framework – charge-transfer energy Δ, on-site Coulomb energy U and transfer integrals, in the Zaanen–Sawatzky–Allen classification \[22\] and as extracted compound by compound by the configuration-interaction analyses of Fujimori, Bocquet, Saitoh, Sarma and co-workers \[23–26\]. O-K pre-edge intensities serve as a relative, series-internal hybridisation measure only; their limits as an absolute covalency scale (core-hole effects, ligand-hole distribution, band effects) are treated explicitly \[27\], and the conflation of hybridisation with covalency that is common in the catalysis-descriptor literature is deliberately avoided – the descriptor scale of this project is calibrated against cluster-model analysis, not against pre-edge intensity alone. System-specific parameter status (re-screening, 09.08.2026): the CuO2-plane parameter set (Δ, Udd, tpd) is cross-validated by several independent CI analyses \[28, 29\]; a δ-resolved, chain/plane-separated extraction for YBCO is thin and methodologically contested – non-local screening distorts single-impurity fits \[30\] – which is precisely the refinement this project’s site-resolved XAS series enables.
 
 2 Programme fit and strategy
 
@@ -121,6 +121,12 @@ The project is the building block between the applicant’s doctorate (memristiv
 \[26\] S. Nimkar, D. D. Sarma, H. R. Krishnamurthy, S. Ramasesha, Mean-field results of the multiple-band extended Hubbard model for the square-planar CuO2 lattice. Physical Review B 48, 7355–7363 (1993).
 
 \[27\] F. M. F. de Groot, X-ray absorption and dichroism of transition metals and their compounds. Journal of Electron Spectroscopy and Related Phenomena 67, 529–622 (1994).
+
+\[28\] H. Eskes, G. A. Sawatzky, Tendency towards local spin compensation of holes in the high-Tc copper compounds. Physical Review Letters 61, 1415–1418 (1988).
+
+\[29\] Z.-X. Shen, J. W. Allen et al., Anderson Hamiltonian description of the experimental electronic structure and magnetic interactions of copper oxide superconductors. Physical Review B 36, 8414 (1987).
+
+\[30\] M. A. van Veenendaal, G. A. Sawatzky et al., Physical Review B 49, 3473 (1994). \[nonlocal screening in Cu 2p spectra; complete citation before submission\]
 
 \[E1\] M. Buczek et al., Amorphous, Highly Conductive Pr0.7Ca0.3MnO3 for Area-Dependent Resistive Switching Devices. Advanced Electronic Materials (2026, accepted).
 
